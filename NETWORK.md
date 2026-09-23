@@ -1,15 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# Zion AI Chatbot Builder
 
-**zion-ai-chatbot-builder** is part of the Zion Tech Group app network (630+ apps).
+Build AI chatbots.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [zion-chatbot-builder](https://github.com/Zion-support/zion-chatbot-builder) · [zion-ai-help-desk](https://github.com/Zion-support/zion-ai-help-desk) · [zion-ai-voice-assistant](https://github.com/Zion-support/zion-ai-voice-assistant) · [zion-ai-knowledge-base](https://github.com/Zion-support/zion-ai-knowledge-base) · [ai-customer-experience-hub](https://github.com/Zion-support/ai-customer-experience-hub)
 
-## Related apps
-- [zion-chatbot-builder](https://github.com/Zion-support/zion-chatbot-builder) — chatbot builder
-- [zion-ai-agent-builder](https://github.com/Zion-support/zion-ai-agent-builder) — no-code agent studio
-- [rag-forge](https://github.com/Zion-support/rag-forge) — RAG pipelines for chatbots
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
